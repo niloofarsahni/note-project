@@ -1,6 +1,6 @@
 # 📒 Note Project
 
-A simple and responsive **note-taking app** built with **React 19**, **Vite**, and **Tailwind CSS**.  
+A simple and responsive **note-taking app** built with **React 19**, **Vite**, **Tailwind CSS** and **Java Script**.  
 The app allows users to create, view, and delete notes, all within a clean and responsive UI that works across devices.
 
 ## 🚀 Demo
